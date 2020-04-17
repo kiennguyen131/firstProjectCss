@@ -1,0 +1,32 @@
+body {
+	font-family: sans-serif, Arial;
+}
+
+.menu {
+	display: flex;
+}
+
+.menu p {
+	font-size: 10px;
+	color: #929292;
+	margin-right: 10px;
+}
+
+
+
+.menu .button {
+	background-color: #4a90e2;
+  	padding: 10px 30px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 10px;
+  	color: white;
+  	border-radius: 5px;
+  	flex: end;
+	
+}
+.menu .text {
+	display: flex;
+	margin-right: 10px;
+}
