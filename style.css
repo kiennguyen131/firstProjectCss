@@ -193,10 +193,15 @@ body {
 }
 .third-g .third-blabla{
 	padding: 30px 250px;
+	margin: 30px;
+}
+.third-g .third-more-news{
+	display: grid;
+	grid-template-columns: 50% 50%;
 }
 .third-g .third-new{
 	display: grid;
-	grid-template-columns: 15% 30% 55%;
+	grid-template-columns: 30% 70%;
 }
 
 .third-new .circle{
@@ -218,10 +223,14 @@ body {
 	font-size: 14px;
 }
 .third-g .third-image{
-	height: 100px;
-	width: 100px;
-	background-color: red;
+	margin-left: 30px;
+	height: 100%;
+	width: 100%;
+	background-image: url('https://coders-x.com/images/code-editor.svg');
+	background-size: 80%;
+	background-repeat: no-repeat;
 }
+
 
 
 
