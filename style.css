@@ -3,8 +3,8 @@ body {
 }
 
 .first-g{
-	height: all;
-	width: all;
+	width: 100vw;
+	height: 100vh;
 }
 
 .menu {
@@ -106,6 +106,14 @@ body {
 .note .bold {
 	color: #4e4848;
 }
+
+.block{
+	width: 400px;
+	height: 400px;
+	background-color: red;
+
+}
+
 
 
 
