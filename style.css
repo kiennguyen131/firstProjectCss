@@ -231,6 +231,42 @@ body {
 	background-repeat: no-repeat;
 }
 
+.end{
+	margin-top: 60px;
+	text-align: center;
+	font-size: 30px;
+}
+.end .end-text{
+	color: blue;
+
+}
+.end .comments{
+	display: grid;
+	grid-template-columns: 30% 70%;
+	margin: 40px 200px;
+}
+
+.end .comments .avt{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background-image: url('https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/s960x960/52427976_2296474737264642_4899757691242545152_o.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_oc=AQlYjbVHAnQicsqAP483_ydTyC-bS5oHc0i7o7cixbkxsslAGIs8-rCG7SOzqRweND4&_nc_ht=scontent.fsgn2-2.fna&_nc_tp=7&oh=5dd6fd1179269a6b8431b62fae6e4411&oe=5EC11426');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.end .comments .comment{
+	font-size: 20px;
+	color: #632a14;
+}
+
+.quotations{
+	margin-top: 100px;
+	margin-bottom: 1000px;
+	font-size: 30px;
+	text-align: center;
+}
+
+
 
 
 
